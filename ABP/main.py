@@ -13,5 +13,7 @@ async def main(page: ft.page):#se hace un para metro para hacer el diseño de la
 
 ft.app(target=main)
 
+#https://github.com/Prof-Luis1986/App06-v1
+
 
 
